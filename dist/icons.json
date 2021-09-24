@@ -1764,6 +1764,12 @@
       "svg": "svgs/actions/actions-wallet.svg",
       "sprite": "sprites/actions.svg#actions-wallet"
     },
+    "actions-window-cog": {
+      "identifier": "actions-window-cog",
+      "category": "actions",
+      "svg": "svgs/actions/actions-window-cog.svg",
+      "sprite": "sprites/actions.svg#actions-window-cog"
+    },
     "actions-window-open": {
       "identifier": "actions-window-open",
       "category": "actions",
@@ -4345,6 +4351,7 @@
     "actions-system-backend-user-emulate": "actions-user-emulate",
     "actions-system-backend-user-switch": "actions-user-switch",
     "actions-variable-select": "actions-variable-add",
+    "information-application-context": "actions-window-cog",
     "empty-empty": "miscellaneous-placeholder"
   }
 }
