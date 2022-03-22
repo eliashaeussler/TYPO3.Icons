@@ -156,6 +156,12 @@
       "svg": "svgs/actions/actions-bolt.svg",
       "sprite": "sprites/actions.svg#actions-bolt"
     },
+    "actions-book": {
+      "identifier": "actions-book",
+      "category": "actions",
+      "svg": "svgs/actions/actions-book.svg",
+      "sprite": "sprites/actions.svg#actions-book"
+    },
     "actions-brand-apple": {
       "identifier": "actions-brand-apple",
       "category": "actions",
@@ -569,6 +575,12 @@
       "category": "actions",
       "svg": "svgs/actions/actions-code.svg",
       "sprite": "sprites/actions.svg#actions-code"
+    },
+    "actions-coffee": {
+      "identifier": "actions-coffee",
+      "category": "actions",
+      "svg": "svgs/actions/actions-coffee.svg",
+      "sprite": "sprites/actions.svg#actions-coffee"
     },
     "actions-cog-alt": {
       "identifier": "actions-cog-alt",
@@ -1613,6 +1625,12 @@
       "category": "actions",
       "svg": "svgs/actions/actions-star.svg",
       "sprite": "sprites/actions.svg#actions-star"
+    },
+    "actions-store": {
+      "identifier": "actions-store",
+      "category": "actions",
+      "svg": "svgs/actions/actions-store.svg",
+      "sprite": "sprites/actions.svg#actions-store"
     },
     "actions-swap": {
       "identifier": "actions-swap",
