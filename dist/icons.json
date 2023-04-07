@@ -4236,11 +4236,11 @@
       "svg": "svgs/module/module-template.svg",
       "sprite": "sprites/module.svg#module-template"
     },
-    "module-tstemplate": {
-      "identifier": "module-tstemplate",
+    "module-tsconfig": {
+      "identifier": "module-tsconfig",
       "category": "module",
-      "svg": "svgs/module/module-tstemplate.svg",
-      "sprite": "sprites/module.svg#module-tstemplate"
+      "svg": "svgs/module/module-tsconfig.svg",
+      "sprite": "sprites/module.svg#module-tsconfig"
     },
     "module-urls": {
       "identifier": "module-urls",
@@ -4685,6 +4685,7 @@
     "actions-variable-select": "actions-variable-add",
     "information-application-context": "actions-window-cog",
     "empty-empty": "miscellaneous-placeholder",
-    "module-templates": "module-template"
+    "module-templates": "module-template",
+    "module-tstemplate": "module-tsconfig"
   }
 }
